@@ -44,21 +44,25 @@ It demonstrates how data is processed, stored, analyzed, and visualized using re
 ---
 
 ## 📁 Project Structure
+
+```
 netflix-content-analysis/
 ├── data/
-│   └── netflix_cleaned.csv      # Cleaned dataset from Excel
+│   └── netflix_cleaned.csv        # Cleaned dataset from Excel
 ├── sql/
-│   └── queries.sql             # SQL queries for analysis
+│   └── queries.sql               # SQL queries for analysis
 ├── python/
-│   └── analysis.py             # Python script for analysis & visualization
+│   └── analysis.py               # Python script for analysis & visualization
 ├── output/
-│   └── netflix_final.csv       # Processed dataset from Python
+│   └── netflix_final.csv         # Processed dataset from Python
 ├── powerbi/
-│   └── dashboard.pbix         # Power BI dashboard
+│   └── dashboard.pbix           # Power BI dashboard
 ├── images/
-│   └── dashboard.png          # Dashboard screenshot
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
+│   └── dashboard.png            # Dashboard screenshot
+├── requirements.txt             # Python dependencies
+└── README.md                    # Project documentation
+```
+
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:git clone https://github.com/Kunal0707/netflix-content-analysis.git
