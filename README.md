@@ -67,27 +67,6 @@ netflix-content-analysis/
 ├── requirements.txt            # Python dependencies
 │
 └── README.md                   # Project documentation
-
----
-
-## 📸 Dashboard Preview
-
-<p align="center">
-    <img src="Screenshot 2026-03-18 223533.png" width="800"/>
-</p>
-
-<p align="center">
-    <img src="Screenshot 2026-03-18 223632.png" width="800"/>
-</p>
-
-<p align="center">
-    <img src="Screenshot 2026-03-18 223702.png" width="800"/>
-</p>
-
-<p align="center">
-    <img src="Screenshot 2026-03-18 223727.png" width="800"/>
-</p>
-
 ---
 
 ## ⚙️ Installation & Setup
