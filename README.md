@@ -31,8 +31,8 @@ flowchart LR
 A[Excel Data Cleaning] --> B[MySQL Database]
 B --> C[Python Analysis]
 C --> D[Power BI Dashboard]
- ##📊 Key Insights
 
+##📊 Key Insights
 - 📌 Movies dominate Netflix content compared to TV Shows  
 - 🌍 United States produces the highest number of titles  
 - 📈 Significant growth in content after 2015  
