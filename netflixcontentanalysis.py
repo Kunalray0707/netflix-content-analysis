@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 # --------------------------------------------
 # Load Dataset
 # --------------------------------------------
-df = pd.read_csv('data/netflix.csv')
+df = pd.read_csv('data/netflix_titles.csv')
 
 # Show first 5 rows
 print("Dataset Preview:")
