@@ -9,10 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&logo=github&cacheSeconds=30"/>
-  <img src="https://img.shields.io/github/forks/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&logo=github&cacheSeconds=30"/>
-  <img src="https://img.shields.io/github/repo-size/Kunal0707/netflix-content-analysis?style=for-the-badge&color=blue&cacheSeconds=60"/>
+  <img src="https://img.shields.io/github/stars/Kunal0707/netflix-content-analysis?style=for-the-badge&logo=github&label=Stars&color=yellow&cacheSeconds=60"/>
+  <img src="https://img.shields.io/github/forks/Kunal0707/netflix-content-analysis?style=for-the-badge&logo=github&label=Forks&color=orange&cacheSeconds=60"/>
+  <img src="https://img.shields.io/github/repo-size/Kunal0707/netflix-content-analysis?style=for-the-badge&label=Repo%20Size&color=blue&cacheSeconds=60"/>
   <img src="https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
+</p>
 </p>
 
 <p align="center">
