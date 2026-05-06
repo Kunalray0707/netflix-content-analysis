@@ -72,12 +72,13 @@ flowchart LR
 
 ---
 
-📥 Dashboard Access
+##📥 Dashboard Access
+---
 👉 Download Interactive Dashboard (.pbix):
-["Netflix DASHBOARD.pbix"] (https://github.com/Kunalray0707/Netflix-Content-Analysis/blob/main/Netflix%20DASHBOARD.pbix)
+[Netflix DASHBOARD.pbix](https://github.com/Kunalray0707/Netflix-Content-Analysis/blob/main/Netflix%20DASHBOARD.pbix)
 
 📄 Static Preview:
-["netflix content analysis dashboard.pdf"] (https://github.com/Kunalray0707/Netflix-Content-Analysis/blob/main/netflix%20content%20analysis%20dashboard.pdf)
+[netflix content analysis dashboard.pdf](https://github.com/Kunalray0707/Netflix-Content-Analysis/blob/main/netflix%20content%20analysis%20dashboard.pdf)
 
 ⚠️ PBIX files cannot be previewed in browser. Download and open using Power BI Desktop.
 
@@ -92,7 +93,8 @@ flowchart LR
 
 ---
 
-#📁 Project Structure
+##📁 Project Structure
+---
 ```
 
 netflix-content-analysis/
