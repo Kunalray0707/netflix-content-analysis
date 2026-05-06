@@ -69,63 +69,17 @@ flowchart LR
     D --> E[📊 Power BI Dashboard]
     E --> F[💡 Insights]
 ```
-    
 
 ---
 
-## 📌 Project Overview
+📥 Dashboard Access
+👉 Download Interactive Dashboard (.pbix):
+["Netflix DASHBOARD.pbix"] (https://github.com/Kunalray0707/Netflix-Content-Analysis/blob/main/Netflix%20DASHBOARD.pbix)
 
-This project analyzes Netflix content using a complete data pipeline—from raw data cleaning to interactive dashboard visualization.
+📄 Static Preview:
+["netflix content analysis dashboard.pdf"] (https://github.com/Kunalray0707/Netflix-Content-Analysis/blob/main/netflix%20content%20analysis%20dashboard.pdf)
 
-It demonstrates real-world data workflows including:
-
-- Data cleaning  
-- Database management  
-- Analysis  
-- Visualization  
-
----
-
-## 🎯 What This Project Demonstrates
-
-- 📊 End-to-end data analysis pipeline  
-- 🗄️ SQL database handling  
-- 🐍 Data analysis using Python (Pandas, Matplotlib)  
-- 📈 Business insights generation  
-- 📊 Dashboard creation using Power BI  
-
----
-
-## 🧰 Tech Stack
-
-<p align="center"> 
-  <img src="https://img.icons8.com/color/96/ms-excel.png"/> 
-  <img src="https://img.icons8.com/color/96/mysql-logo.png"/> 
-  <img src="https://img.icons8.com/color/96/python.png"/> 
-  <img src="https://img.icons8.com/color/96/power-bi.png"/> 
-</p>
-
-- Excel → Data Cleaning  
-- MySQL → Database Management  
-- Python → Data Analysis  
-- Power BI → Dashboard  
-
----
-
-## 🔄 Data Workflow
-
-```mermaid
-flowchart LR
-    A[📥 Raw Data] --> B[🧹 Excel Cleaning]
-    B --> C[🗄️ MySQL Storage]
-    C --> D[🐍 Python Analysis]
-    D --> E[📊 Power BI Dashboard]
-    E --> F[💡 Insights]
-```
----
-
-📊 Dashboard Preview
-<p align="center"> <img src="images/dashboard.png" width="800"/> </p>
+⚠️ PBIX files cannot be previewed in browser. Download and open using Power BI Desktop.
 
 ---
 ## 📊 Key Insights
@@ -170,7 +124,6 @@ python python/analysis.py
 
 ---
 
-```markdown
 ## 🧠 Learnings
 
 - SQL query optimization  
@@ -178,7 +131,6 @@ python python/analysis.py
 - Python data analysis workflows  
 - Visualization best practices  
 - Dashboard storytelling
-```
 
 ---
 
