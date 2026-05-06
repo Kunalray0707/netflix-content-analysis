@@ -145,12 +145,14 @@ python python/analysis.py
 
 ---
 👨‍💻 Author
+---
 
 Kunal Ray
 
 ---
 
 ⭐ Support This Project
+---
 
 If you found this project useful, consider giving it a 
 <p align="center"> 
